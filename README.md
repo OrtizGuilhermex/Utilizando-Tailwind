@@ -1,2 +1,2 @@
-# Utilizando-Tailwind
-Neste exercício, nosso objetivo é refatorar um site previamente desenvolvido, adaptando-o para o uso do Tailwind CSS, a fim de aprimorar a estrutura e o design com uma abordagem mais modular e eficiente.
+Tentativa Falha de Utilizar Tailwind
+Neste exercício, houve uma tentativa de refatorar um site previamente desenvolvido para usar Tailwind CSS, com o objetivo de tornar o design mais modular e eficiente. No entanto, a adaptação não teve sucesso, e os estilos não foram aplicados corretamente, evidenciando dificuldades na integração e no uso das classes utilitárias do Tailwind.
